@@ -1,4 +1,4 @@
 # private-local
-For playing with fe
+For fe purposes
 
-Angular repo.
+Angular repo
