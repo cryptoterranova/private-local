@@ -1,4 +1,3 @@
 # private-local
 # frontend
-
-Angular repo
+# Angular repo
