@@ -1,1 +1,1 @@
-# Angular application
+# Angular app
